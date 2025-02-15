@@ -6,4 +6,6 @@ A memorable Valentine's Day animation, made with HTML, CSS & JS. Send messages o
 
 ## Insstructions for Use
 
-Navigate to `Hearts`, then download the code files. Enjoy!
+Navigate to `Hearts`, then download the folder. Enjoy!
+
+![Valentine's Day 2025](https://github.com/user-attachments/assets/e5a8adb4-7070-4eb3-8968-922b12c3e1b3)
